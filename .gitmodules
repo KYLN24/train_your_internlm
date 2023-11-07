@@ -1,0 +1,3 @@
+[submodule "InternLM"]
+	path = InternLM
+	url = https://github.com/InternLM/InternLM

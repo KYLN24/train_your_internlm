@@ -1,0 +1,6 @@
+ckpts
+logs
+data/test
+data/train
+data/val
+__pycache__
